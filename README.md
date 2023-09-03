@@ -7,6 +7,8 @@ fazendo o desafio que tem no github do picpay em java
 foi utilizado uma base de dados em postgres(Docker)
 segue abaixo os camandos para utilizar o postgres via docker
 
+Caso não tenha o docker instalado em sua maquina, pode ser utilizado a documentação do docker [clicando aqui](https://docs.docker.com/) para instalar  
+
 ##### criar um volume
     docker volume create postgres-data
 
